@@ -1,31 +1,24 @@
 # Exploring Machine Learning
-Machine learning algorithms implementation in python with references, and with sketchy explanations. 
 
-By opening .ipynb files in corresponding directories you'll see a notebook with the explanation.
-### Currently explored algorithms:  
+Machine learning algorithms implementation in Python with references and informal explanations.
+
+By opening `.ipynb` files in the corresponding directories you will see a notebook with the explanation.
+
+## Currently explored themes
+
 * [Logistic regression](../master/Classification/Logistic%20Regression.ipynb)
 * [Linear regression](../master/Regression/Linear%20Regressions.ipynb)
 * [Principal Component Analysis](../master/Dimensionality%20Reduction/Principal%20Component%20Analysis%20\%28PCA%29/Principal%20Component%20Analysis.ipynb)
 
-### Next algorithms: 
-* Decision trees (classification and regression)
-* Support Vector Machine
+## Next themes
 
-### In plans:
-* Gradient boosted decision trees
-* k-means
-* Naive bayes
-* Gradient Boosted Decision Trees
-* Naive Bayes
-* K-Nearest Neighbors
-* Learning Vector Quantization
-* Back propagation neural network
-* Deep NN's 
-* LSTM
-* CNN
+- Spectrograms
+- LLMs
 
+## 2026 update
+
+Eight years have passed since this repository was created. There were many misspellings in the notebooks and in the code; most have been corrected. Python dependencies are now managed with [uv](https://docs.astral.sh/uv/). The roadmap below has been refreshed.
 
 ## Contacts
 
 Reddit: [/u/Arkady_A](https://www.reddit.com/user/Arkady_A)
-Twitter: [@Arkady_Ast](https://twitter.com/Arkady_Ast)
